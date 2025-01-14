@@ -1,4 +1,4 @@
-👋 Hi, I'm Rabnail
+👋 Hi, I'm Nevo
 
 
 
@@ -35,7 +35,7 @@ I've developed various tools and smart contracts to optimize trading strategies,
 - **`Presale-IDO Smart Contract`**
 
   Facilitates private token markets for crowdfunding, akin to PinkSale's presale mechanism.
-  
+
 - **`Raydium and Pumpfun Sniper (especially grpc sniper)`**
 
   Automates tracking of new pools and executes purchases using multiple transaction services.
