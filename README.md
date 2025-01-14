@@ -55,3 +55,23 @@ I've developed various tools and smart contracts to optimize trading strategies,
 - **`Shit Token Launcher`**
 
   Deploys new pools on Raydium, leveraging quick sniping bots to generate profits.
+
+---
+
+### 📚 **Recently Read Articles**
+
+- [**Nodemailer vs EmailJS: Comparison & What to Choose**](https://mailtrap.io/blog/nodemailer-vs-emailjs/#:~:text=EmailJS%20is%20a%20backend%20service,handles%20all%20SMTP%20server%20configurations.)
+
+- [**How to Create a MEV Bot on Ethereum Mainnet: Road to Arbitrage**](https://www.blocknative.com/blog/mev-and-creating-a-basic-arbitrage-bot-on-ethereum-mainnet)
+
+- [**Launching and Trading Memecoins with Pumpfun**](https://medium.com/@8093akash/explaining-pump-fun-launching-and-trading-memecoins-and-building-your-pump-fun-clone-1ecc8081c589)
+
+- [**Jito: Solana Validator _ Getting Started with Solana Staking**](https://www.jito.network/blog/solana-validator-101-getting-started-with-solana-staking/)
+
+---
+
+### 💼 **Let's Connect**
+If you're looking for expertise in neat fullstack development,the Solana ecosystem or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities to grow up and devote!
+
+---
+
