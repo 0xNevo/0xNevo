@@ -12,6 +12,14 @@ I've developed various tools and smart contracts to optimize trading strategies,
 
 ### 🚀 **Recent Projects**
 
+- **`Verifiable Trading Strategy Marketplace on BNB`**
+
+  Allow strategy authors to publish verifiable backtests and risk metrics (drawdown, Sharpe, worst case) that users can check onchain before running capital. Run strategy simulation off-chain in Pico zkVM; produce proof that the reported PnL came from running X on authentic historical blocks. Verify before users deposit.
+
+- **`Perpetual DEX on Cardano with ADA-Based Proxy Collateral`**
+
+  Built a perpetual decentralized exchange (DEX) on Cardano that enables trading with ADA as the primary collateral asset. Leveraged the Orderly Network SDK for orderbook and matching infrastructure, which natively supports only EVM-based assets. To bridge this limitation, implemented a proxy-collateral mechanism that mirrors users’ underlying ADA balances as tradable margin within the EVM-compatible environment.
+
 - **`Commerical AI Chatbot Integration`**
 
   Integrates Azure + Flask backend with Next.js frontend, Flask application provides endpoints for interacting with both the chat assistant and the chat history. 
@@ -59,6 +67,10 @@ I've developed various tools and smart contracts to optimize trading strategies,
 ---
 
 ### 📚 **Recently Read Articles**
+
+- [**Scaling BNB Chain to Infinity with Verifiable Computing Powered by Brevis**](https://blog.brevis.network/2025/10/10/scaling-bnb-chain-to-infinity-with-verifiable-computing-powered-by-brevis)
+
+- [**The Future of Blockchain: Trends We Expect in 2025 and Beyond**](https://londonblockchain.net/blog/blockchain-in-action/the-future-of-blockchain-trends-we-expect-in-2025-and-beyond/)
 
 - [**Nodemailer vs EmailJS: Comparison & What to Choose**](https://mailtrap.io/blog/nodemailer-vs-emailjs/#:~:text=EmailJS%20is%20a%20backend%20service,handles%20all%20SMTP%20server%20configurations.)
 
