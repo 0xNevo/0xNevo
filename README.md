@@ -6,11 +6,19 @@
 ---
 ### 🌟 **About Me**
 I'm a blockchain fullstack developer with over 5 years of experience building decentralized applications and smart contracts across multiple blockchain ecosystems. I specialize in Solana development and have built and managed secure websites, providing clean, well-tested, and well-documented Frontend and Backend code.
-I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity on SVM (Solana Virtual Machine) and other blockchain networks.
+I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity on SVM and other blockchain networks.
 
 ---
 
 ### 🚀 **Recent Projects**
+
+- **`P² Market - AI-Powered Perpetual Prediction Market`**
+
+  Introduced and built the first AI-powered perpetual prediction market, enabling users to trade the probability of real-world events — from elections to sports and culture — with leverage and dynamic funding rates. Unlike traditional betting platforms, P² Market allows users to speculate on the market's collective belief, powered by an AI-driven risk engine and verified on-chain oracles. The platform creates a new dimension of probability trading where every position reflects market consensus and real-time risk dynamics.
+
+- **`Ethereum Bundler using Flashbots MEV-Share`**
+
+  Developed an Ethereum transaction bundling system that leverages Flashbots MEV-Share to atomically execute token deployment and immediate purchase transactions. The system deploys token contracts with customizable parameters and executes token purchases in the same block, ensuring atomic execution through Flashbots MEV-Share bundling. Built using the @flashbots/mev-share-client library with configurable environment variables for flexible deployment and execution parameters.
 
 - **`Verifiable Trading Strategy Marketplace on BNB`**
 
@@ -20,59 +28,15 @@ I've developed various tools and smart contracts to optimize trading strategies,
 
   Built a perpetual decentralized exchange (DEX) on Cardano that enables trading with ADA as the primary collateral asset. Leveraged the Orderly Network SDK for orderbook and matching infrastructure, which natively supports only EVM-based assets. To bridge this limitation, implemented a proxy-collateral mechanism that mirrors users’ underlying ADA balances as tradable margin within the EVM-compatible environment.
 
-- **`Commerical AI Chatbot Integration`**
+- **`Commercial AI Chatbot Integration`**
 
-  Integrates Azure + Flask backend with Next.js frontend, Flask application provides endpoints for interacting with both the chat assistant and the chat history. 
+  Built a full-stack AI chatbot application integrating Azure AI services with a Flask RESTful API backend and a modern Next.js frontend. The Flask application provides secure, scalable endpoints for real-time chat interactions and comprehensive chat history management. Leveraged Azure's cloud infrastructure for AI-powered conversational capabilities, ensuring high availability and performance. The Next.js frontend delivers a responsive, user-friendly interface with seamless API integration for optimal user experience. 
 
-- **`Chat System based on Solana CNFT `**
-
-  Generates arts including the written text of Users and mints CNFT. 
-
-- **`HVAC Calculator based on Wattbuy and Weatherbit APIs`**
-
-  Estimates cost of HVAC usage by utilizing external APIs such as Wattbuy to retrieve historical energy rate data based on the homeowner's zip code.
-
-
-- **`Raydium and Pumpfun Sniper (especially grpc sniper)`**
-
-  Automates tracking of new pools and executes purchases using multiple transaction services.
-
-- **`Raydium and Pumpfun Bundler`**
-
-  Creates a raydium and pumpfun pool and enables dev to buy token in the first block using jito bundling.
-
-- **`Volume Bot in Raydium, Pumpfun and Meteora`**
-
-  Manages market caps and volume of pools with strategic interventions to maintain or increase market cap or liquidity.
-
-- **`Maker Bot (Raydium, Pumpfun)`**
-
-  Increases pool makers by purchasing small tokens from multiple wallets in a short time, working seamlessly with the Volume Bot.
-
-- **`Shit Token Launcher`**
-
-  Deploys new pools on Raydium, leveraging quick sniping bots to generate profits.
-
----
-
-### 📚 **Recently Read Articles**
-
-- [**Scaling BNB Chain to Infinity with Verifiable Computing Powered by Brevis**](https://blog.brevis.network/2025/10/10/scaling-bnb-chain-to-infinity-with-verifiable-computing-powered-by-brevis)
-
-- [**The Future of Blockchain: Trends We Expect in 2025 and Beyond**](https://londonblockchain.net/blog/blockchain-in-action/the-future-of-blockchain-trends-we-expect-in-2025-and-beyond/)
-
-- [**Nodemailer vs EmailJS: Comparison & What to Choose**](https://mailtrap.io/blog/nodemailer-vs-emailjs/#:~:text=EmailJS%20is%20a%20backend%20service,handles%20all%20SMTP%20server%20configurations.)
-
-- [**How to Create a MEV Bot on Ethereum Mainnet: Road to Arbitrage**](https://www.blocknative.com/blog/mev-and-creating-a-basic-arbitrage-bot-on-ethereum-mainnet)
-
-- [**Launching and Trading Memecoins with Pumpfun**](https://medium.com/@8093akash/explaining-pump-fun-launching-and-trading-memecoins-and-building-your-pump-fun-clone-1ecc8081c589)
-
-- [**Jito: Solana Validator _ Getting Started with Solana Staking**](https://www.jito.network/blog/solana-validator-101-getting-started-with-solana-staking/)
 
 ---
 
 ### 💼 **Let's Connect**
-If you're looking for expertise in blockchain fullstack development, the Solana ecosystem, or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities to grow and contribute!
+If you're looking for expertise in blockchain fullstack development or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities to grow and contribute!
 
 ---
 
