@@ -5,8 +5,8 @@
 
 ---
 ### 🌟 **About Me**
-I'm Fullstack Solana developer. I have built and managed secure websites and provide clean, well-tested and well-documented Frontend, Backend code.
-I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity on SVM.
+I'm a blockchain fullstack developer with over 5 years of experience building decentralized applications and smart contracts across multiple blockchain ecosystems. I specialize in Solana development and have built and managed secure websites, providing clean, well-tested, and well-documented Frontend and Backend code.
+I've developed various tools and smart contracts to optimize trading strategies, deploy tokens, and manage liquidity on SVM (Solana Virtual Machine) and other blockchain networks.
 
 ---
 
@@ -32,17 +32,6 @@ I've developed various tools and smart contracts to optimize trading strategies,
 
   Estimates cost of HVAC usage by utilizing external APIs such as Wattbuy to retrieve historical energy rate data based on the homeowner's zip code.
 
-- **`Token Freezer`**
-
-  Implements whitelist functionality post-pool creation, restricting token sales to specified users only.
-
-- **`Token Locker Smart Contract`**
-
-  Allows users to stake tokens or SOL with rewards based on staking duration and bonus plans.
-
-- **`Presale-IDO Smart Contract`**
-
-  Facilitates private token markets for crowdfunding, akin to PinkSale's presale mechanism.
 
 - **`Raydium and Pumpfun Sniper (especially grpc sniper)`**
 
@@ -83,7 +72,7 @@ I've developed various tools and smart contracts to optimize trading strategies,
 ---
 
 ### 💼 **Let's Connect**
-If you're looking for expertise in neat fullstack development,the Solana ecosystem or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities to grow up and devote!
+If you're looking for expertise in blockchain fullstack development, the Solana ecosystem, or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities to grow and contribute!
 
 ---
 
